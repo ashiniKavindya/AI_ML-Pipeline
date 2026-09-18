@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_kmeans_notebook.py\")",
+      "Bash(python -c ' *)",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_e5_all_algos_notebook.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_e5_separate_notebooks.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_e5_preprocessing_ablation.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_deep_clustering_notebooks.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/smoke_test_deep_clustering.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_ae_agglomerative_notebook.py\")",
+      "Bash(rm \"Aggregation_Pipeline/clustering/deep_clustering/clustering_e5_AutoencoderKMeans.ipynb\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/add_random_cluster_cells.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/smoke_test_sccl_loss.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/build_sccl_notebook.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/smoke_test_clusterllm.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/fix_gmm_notebook.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/audit_deep_clustering.py\")",
+      "Bash(python \"C:/Users/ashin/AppData/Local/Temp/claude/c--dev-AI-ML-Pipeline/ac20a2d3-dc08-4a58-bfae-881bd56e6cb7/scratchpad/fix_ae_agglomerative_notebook.py\")"
+    ]
+  }
+}
